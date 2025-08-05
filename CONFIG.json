@@ -1,0 +1,11 @@
+{
+  "Configuration": {
+    "Executables": [
+      {
+        "FilePath": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+        "Arguments": "--profile-directory=\"Default\" --app-id=ejdehajajkobijegngjjlklahbhedinh",
+        "Group": "AIS_All_Autopilot_Devices_Personal"
+      }
+    ]
+  }
+}
